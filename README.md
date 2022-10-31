@@ -15,7 +15,7 @@
 <img src = ".\Screenshot\01.jpg" width = "700px"><br/> 
 ---
 ---<br/>       
-  > this is the paired address of sender and receiver on both            
+  >  this is the paired address of sender and receiver on both.  
   > `web application and Ganache app`
 <br/>
 <img src = ".\Screenshot\02.jpg" width = "700px"><br/> 
